@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd723937-3bfc-4d89-bea7-746e9f12f993" name="Changes" comment="initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/website/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.1.10_1/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/website/vendor/composer" />
+      <path value="$PROJECT_DIR$/website/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/website/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/website/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/website/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/website/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/website/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/website/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/website/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/website/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/website/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/website/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/website/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/website/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/website/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/website/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/website/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/website/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/website/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/website/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/website/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/website/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/website/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/website/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/website/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/website/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/website/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/website/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/website/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/website/vendor/kartik-v/yii2-bootstrap5-dropdown" />
+      <path value="$PROJECT_DIR$/website/vendor/kartik-v/yii2-grid" />
+      <path value="$PROJECT_DIR$/website/vendor/kartik-v/yii2-krajee-base" />
+      <path value="$PROJECT_DIR$/website/vendor/kartik-v/yii2-dialog" />
+      <path value="$PROJECT_DIR$/website/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/website/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/website/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/website/vendor/yiithings/yii2-dotenv" />
+      <path value="$PROJECT_DIR$/website/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/website/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/bootbox" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/select2" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/website/vendor/bower-asset/font-awesome" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/lib-web" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/website/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/website/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/website/vendor/masterminds/html5" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2VhVLyIIPPsjHMq2hieWqdaadyf" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/martin/projects/iot-website",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="codeception.yml" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings scope="ConfigurationFile" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd723937-3bfc-4d89-bea7-746e9f12f993" name="Changes" comment="" />
+      <created>1695288246515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695288246515</updated>
+      <workItem from="1695288248088" duration="415000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1695288518076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695288518076</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
